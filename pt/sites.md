@@ -9,6 +9,7 @@
 ## Adicionar um novo site
 * Click em adicionar site.  
 * Insira o nome e o domínio do site nos respectivos campos.
+* Atenção: A integração funcionará com os dominios explicitamente cadastrados (atualmente apenas um domínio é suportado)
 * Click em salvar ou pressione a tecla 'enter'.
 
 ## Editar as propriedades de um site.
