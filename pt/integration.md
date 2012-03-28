@@ -1,4 +1,5 @@
 # Integração
+> Para que você possa vincular publicidade no seu site é preciso integrar suas páginas e respectivos espaços publicitários.
 
 ## Integrando uma página
 > Cada página criada possui uma aba chamada "código"
