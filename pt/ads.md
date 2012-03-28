@@ -15,7 +15,7 @@
 ## Remover
 * Clique no botão/link "remove" na peça que deseja excluir.
 
-## Vincular peça em um ou vários espaços publicitários(breve)
+## Vincular um ou vários espaços publicitários
 * Durante o cadastro ou edição de uma peça você selecionar quais espaços ela será vinculada
 * Na seção "Espaços a vincular"
 * Escolha quais páginas deseja vincular a peça e quais espaços dessa pagina poderão imprimir a peça
