@@ -1,4 +1,5 @@
 # Sites
+> O Adlayer permite que você gerêncie seu inventário organizados por sites
 
 ## Lista de sites
 * Por padrão na página inicial do sistema você poderá ver todos os sites ou quando clicar em sites na navegação global.
