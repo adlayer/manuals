@@ -4,7 +4,7 @@
 * Clique no botão "adicionar campanha"
 * Insira o nome da campanha e clique em "salvar"
 * Informe a data de duração da campanha e que em "salvar"
-* Adicione as peças publicitárias da campanha clicando em "adicionar peças" (veja a seção, adicionando peças na campanha)
+* Adicione as peças publicitárias da campanha clicando em "adicionar peças" [mais detalhes](#)
 
 ## Editar campanha
 * selecione a campanha deseja na lista de campanhas
