@@ -1,6 +1,6 @@
 # Sites
 
-## Lista todos os site
+## Lista de sites
 * Por padrão na página inicial do sistema você poderá ver todos os sites ou quando clicar em sites na navegação global.
 
 ## Visão geral (páginas, formatos, campanhas e anunciantes) 
