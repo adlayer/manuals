@@ -1,4 +1,6 @@
 # Peças publicitárias
+> Peças são unidades criativas relacionadas a uma campanha publicitária que possui um arquivo de mídia anexado 
+e pode ser vinculado em vários espaços de um site.
 
 ## Adicionar peça
 * Depois de ter adicionado a campanha
