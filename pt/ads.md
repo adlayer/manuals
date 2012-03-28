@@ -15,6 +15,7 @@ e pode ser vinculado em vários espaços de um site.
 * Clique em salvar
 
 ## Remover
+* Dentro da campanha na lista peças
 * Clique no botão/link "remover" na peça que deseja excluir.
 
 ## Vincular em um ou vários espaços publicitários
