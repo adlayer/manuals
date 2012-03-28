@@ -13,7 +13,7 @@
 * Clique em salvar
 
 ## Remover
-* Clique no botão/link "remove" na peça que deseja excluir.
+* Clique no botão/link "remover" na peça que deseja excluir.
 
 ## Vincular um ou vários espaços publicitários
 * Durante o cadastro ou edição de uma peça você selecionar quais espaços ela será vinculada
