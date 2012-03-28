@@ -1,4 +1,4 @@
-# Site
+# Sites
 
 ## Listar todos os site
 * Por padrão na página inicial do sistema você poderá ver todos os sites ou quando clicar em sites na navegação global.
