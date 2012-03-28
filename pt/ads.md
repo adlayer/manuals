@@ -14,7 +14,7 @@ e pode ser vinculado em vários espaços de um site.
 * Faça as alterações necessárias
 * Clique em salvar
 
-## Remover
+## Remover peça
 * Dentro da campanha na lista peças
 * Clique no botão/link "remover" na peça que deseja excluir.
 
