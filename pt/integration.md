@@ -7,8 +7,8 @@
 * Clique na aba "código" da página que deseja integrar
 * Copie o script/código fornecido
 * Cole no html da respectiva página
-* ***Atenção:*** Cada página possui um espaço único e não deve haver tags Adlayer duplicadas no html de sua página```
-* ```Sugestão:``` Insira o código fornecido dentro da tag ```<head>``` ou antes da tag ```</body>```
+* ***Atenção:*** Cada página possui um espaço único e não deve haver tags Adlayer duplicadas no html de sua página
+* ***Sugestão:*** Insira o código fornecido dentro da tag ```<head>``` ou antes da tag ```</body>```
 
 ## Integrando um espaço
 > Todos os espaços publicitários criandos por você possuem um código de integração único, 
