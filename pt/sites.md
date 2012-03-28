@@ -11,12 +11,12 @@
 * Insira o nome e o domínio do site nos respectivos campos.
 * Click em salvar ou pressione a tecla 'enter'.
 
-# Editar as propriedades de um site.
+## Editar as propriedades de um site.
 * Identifique o site que deseja editar.
 * Click em propriedades.  
 * Altere o nome do domínio do site.  
 * Click em salvar ou pressione a tecla 'enter'.
 
-# Remover um site  
+## Remover um site  
 * Em sua lista de sites identifique o site desejado e click em 'remover'.  
 * Se realmente deseja excluir o site click em 'ok remover'.
