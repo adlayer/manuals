@@ -1,4 +1,5 @@
 # Anunciantes
+> Tenha controle sobre todas as campanhas de um anunciante e encontre facilmente o responsável pelas camapanhas
  
 ## Adicionar anunciante
 * Dentro do site desejado selecione a aba “anunciantes”
