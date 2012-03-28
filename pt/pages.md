@@ -22,8 +22,4 @@
 * Você verá uma caixa com um formulário dentro e deverá preencher as informações como o nome do espaço e formato dele.
 
 ## Integrando o Adlayer a sua página
-* clique na aba código
-* copie o script fornecido
-* cole no HTML de Seu site relationado a essa página.
-* copie e cole o código de todos os espaços no lugar que vc desejada receber publicidade.
 [Veja mais detalhes](#)
