@@ -1,4 +1,5 @@
 # Paginas
+> Tenha acesso aos espaços publicitários de cada página e visualize o código de integração.
 
 ## Adicionar uma página  
 * Dentro de qualquer site adicionado haverá a aba 'Páginas', selecione-a caso já não esteja selecionada. 
@@ -14,7 +15,6 @@
 
 ## Remover página 
 * Se você está visualizando uma lista de páginas basta clicar no botāo remover localizado na frente do nome da página.
-* Se você está dentro da página e está visualizando as opçoēs geral, espaços da página. Passe o mouse no nome de página e selectione opção "remover".
 
 ## Adicionando espaços publicitários da página
 * Dentro página desejada encontre a Aba "Espaços".
