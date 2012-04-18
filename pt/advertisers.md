@@ -15,4 +15,4 @@
 
 # Remover um anunciante
 * Na lista de anunciante procure pelo anunciante que deseja e clique em "remover"
-* ***Atenção***, remover uma anunciante removerá também todas as campanhas dele.
+* ***Atenção***, remover um anunciante eliminará também todas as campanhas dele.
