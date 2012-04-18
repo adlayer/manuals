@@ -1,5 +1,5 @@
 # Anunciantes
-* Tenha controle sobre todas as campanhas de um anunciante e encontre facilmente o responsável por cada campanha
+> Tenha controle sobre todas as campanhas de um anunciante e encontre facilmente o responsável por cada campanha
  
 ## Adicionar anunciante
 * Dentro do site desejado selecione a aba “anunciantes”
