@@ -4,19 +4,20 @@
 ## Lista de sites
 * Por padrão na página inicial do sistema você poderá ver todos os sites ou quando clicar em sites na navegação global.
 
-## Visão geral (páginas, formatos, campanhas e anunciantes) 
-* Na lista de sites identifique o site em questão click no nome do site.
+## Visão geral do site
+* Na lista de sites identifique o site em desejado e click no nome do site.
+* Nesta sessão você poderá ver detalhes como páginas, formatos, campanhas e anunciantes.
 
 ## Adicionar um novo site
-* Click em adicionar site.  
+* Click em adicionar site.
 * Insira o nome e o domínio do site nos respectivos campos.
-* Atenção: A integração funcionará com os dominios explicitamente cadastrados (atualmente apenas um domínio é suportado)
+* Atenção: A integração funcionará apenas com os dominios explicitamente cadastrados (atualmente apenas um domínio é suportado)
 * Click em salvar ou pressione a tecla 'enter'.
 
 ## Editar as propriedades de um site
 * Identifique o site que deseja editar na lista de sites.
 * Click em propriedades.
-* Altere o nome do domínio do site.
+* Realize as alterações desejadas.
 * Click em salvar ou pressione a tecla 'enter'.
 
 ## Remover um site
