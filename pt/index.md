@@ -7,9 +7,9 @@
 * [Remover](sites#remover-um-site)
 
 ### [Páginas](pages)
-* [Adicionar](pages#add)
-* [Editar](pages#edit)
-* [Remover](pages#remove)
+* [Adicionar](pages#adicionar-uma-página)
+* [Editar](pages#editar-uma-página)
+* [Remover](pages#remover-página)
 
 #### [Espaços da página](spaces)
 * [Adicionar](spaces#add)
