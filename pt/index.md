@@ -2,31 +2,31 @@
 > Manuais parar utilizar o Adlayer
 
 ## [Sites](sites)
-* Adicionar
-* Editar
-* Remover
+* [Adicionar](sites#add)
+* [Editar](sites#edit)
+* [Remover](sites#edit)
 
 ### [Páginas](pages)
-* Adicionar
-* Editar
-* Remover
+* [Adicionar](pages#add)
+* [Editar](pages#edit)
+* [Remover](pages#edit)
 
 #### [Espaços da página](spaces)
-* Adicionar
-* Editar
-* Remover
+* [Adicionar](spaces#add)
+* [Editar](spaces#edit)
+* [Remover](spaces#edit)
 
 ## [Anunciantes](advertisers)
-* Adicionar
-* Editar
-* Remover
+* [Adicionar](advertisers#add)
+* [Editar](advertisers#edit)
+* [Remover](advertisers#edit)
 
 ## [Campanha](campaigns)
-* Adicionar
-* Editar
-* Remover
+* [Adicionar](campaigns#add)
+* [Editar](campaigns#edit)
+* [Remover](campaigns#edit)
 
 ### [Peças da campanha](ads)
-* Adicionar
-* Editar
-* Remover
+* [Adicionar](ads#add)
+* [Editar](ads#edit)
+* [Remover](ads#edit)
