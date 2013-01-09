@@ -2,11 +2,12 @@
 > O Adlayer permite que você gerêncie seu inventário organizado por sites
 
 ## Lista de sites
-* Por padrão na página inicial do sistema você poderá ver todos os sites ou quando clicar em sites na navegação global.
+* Para acessar a lista de sites, clique na sessão "sites" na navegação global.
+* Se você ainda não tem nenhum site, adicione um novo.
 
-## Visão geral do site
-* Na lista de sites identifique o site em desejado e click no nome do site.
-* Nesta sessão você poderá ver detalhes como páginas, formatos, campanhas e anunciantes.
+## Detalhes do site
+* Na lista de sites, identifique o site em desejado e clique no nome do site.
+* Nesta área você poderá ver detalhes como páginas, formatos e campanhas do site.
 
 ## <span id="adicionar-um-novo-site">Adicionar um novo site</span>
 * Click em adicionar site.
