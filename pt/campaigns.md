@@ -15,4 +15,4 @@
 ## Remover campanha
 * Selecione a campanha deseja na lista de campanhas
 * Clique em remover
-* Atenção, remover uma campanha não removerá o anunciante que ela pertence. Se deseja remover o anunciante veja a seção [remover anunciante](advertisers).
+* Atenção, remover uma campanha não removerá o anunciante que ela pertence. Se deseja remover o anunciante veja a seção [remover anunciante](advertisers.md).
