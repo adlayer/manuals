@@ -15,6 +15,11 @@
 * Atenção: A integração funcionará apenas com os dominios explicitamente cadastrados (atualmente apenas um domínio é suportado)
 * Click em salvar ou pressione a tecla 'enter'.
 
+## Configurando domínios do site
+* Ao adicionar ou editar um site
+* Adicione quais domínios estão habilitados a servir e contabilizar publicidade
+* Não se esqueça de adicionar seus domínios de teste e desenvolvimento caso queira exibir peças nestes ambientes.
+
 ## <span id="editar-as-propriedades-de-um-site">Editar as propriedades de um site</span>
 * Identifique o site que deseja editar na lista de sites.
 * Click em propriedades.
