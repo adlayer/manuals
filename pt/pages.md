@@ -1,5 +1,5 @@
-# Paginas
-> Tenha acesso aos espaços publicitários de cada página e visualize o código de integração.
+# Páginas
+> Tenha acesso aos espaços publicitários de cada página e obtenha o código de integração.
 
 ## <span id="adicionar-uma-página">Adicionar uma página</span>
 * Dentro de qualquer site adicionado haverá a aba 'Páginas', selecione-a caso já não esteja selecionada. 
