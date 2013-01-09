@@ -23,3 +23,10 @@
 ## <span id="remover-um-site">Remover um site</span>
 * Em sua lista de sites identifique o site desejado e click em 'remover'.  
 * Se realmente deseja excluir o site click em 'ok remover'.
+
+## <span id="remover-um-site">Vincular campanha em um site</span>
+* Dentro do site
+* Selecione a aba "campanhas"
+* Clique no botão "vincular campanha"
+* Quando adicionar uma peça para a campanha vinculada, todos os espaços do site estão disponíveis para seleção.
+
