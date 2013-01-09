@@ -3,12 +3,12 @@
 
 ## [Sites](sites.md)
 * [Adicionando um site](sites.md#adicionar-um-novo-site)
-* [Editar](sites.md#editar-as-propriedades-de-um-site)
+* [Editando um site](sites.md#editar-as-propriedades-de-um-site)
 * [Remover](sites.md#remover-um-site)
 
 ### [Páginas](pages.md)
-* [Adicionar](pages.md#adicionar-uma-página)
-* [Editar](pages.md#editar-uma-página)
+* [Adicionar uma nova página](pages.md#adicionar-uma-página)
+* [Editando uma página](pages.md#editar-uma-página)
 * [Remover](pages.md#remover-página)
 
 #### [Espaços da página](spaces.md)
