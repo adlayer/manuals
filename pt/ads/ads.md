@@ -32,3 +32,5 @@ e pode ser vinculado em vários espaços de um site.
 * Depois de adicionada a peça
 * Dentro dela, copie o código embed fornecido
 * Envie o código copiado para o responsável por cadastrar o bloco de código como peça publicitária.
+
+
