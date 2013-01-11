@@ -9,3 +9,5 @@ for file in *; do
 	cd ..
 	echo "* [${file}](${base}/${file}/${file}.md)"
 done
+
+echo 'run sh build.sh > readme.md to build the project'
