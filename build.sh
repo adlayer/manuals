@@ -1,5 +1,5 @@
 cd pt
-base=https://github.com/adlayer/manuals/tree/master/pt/
+base=https://github.com/adlayer/manuals/tree/master/pt
 echo "# Manuais Adlayer"
 
 for file in *; do
@@ -7,5 +7,5 @@ for file in *; do
 	cd $file
 	mustache template.md > $file".md"
 	cd ..
-	echo "* [${file}](${base}/${file}.md)"
+	echo "* [${file}](${base}/${file}/${file}.md)"
 done
