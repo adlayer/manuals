@@ -1,5 +1,5 @@
 # Manuais Adlayer
-* [ads](https://github.com/adlayer/manuals/tree/master/pt/ads/ads.md)
+* [ads](pt/ads/ads.md)
 * [advertisers](https://github.com/adlayer/manuals/tree/master/pt/advertisers/advertisers.md)
 * [campaigns](https://github.com/adlayer/manuals/tree/master/pt/campaigns/campaigns.md)
 * [getting_started](https://github.com/adlayer/manuals/tree/master/pt/getting_started/getting_started.md)
