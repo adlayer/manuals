@@ -1,2 +1,3 @@
-name: Your New Jekyll Site
+name: Manuais de operações Adlayer
 pygments: true
+permalink: /:categories/:title
