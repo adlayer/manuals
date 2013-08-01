@@ -3,11 +3,67 @@ layout: default
 title: Manuais de operações Adlayer
 ---
 
+
 <div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+	<p>Os seguintes manuais estão separados por perfil, siga as instruções que melhor descrevem suas atividades (Publisher ou Anunciante).</p>
+	
+	<h2>Publishers</h2>
+	<ul class="posts">
+	  {% for post in site.tags.publisher %}
+	    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
+	<h2>Anunciantes</h2>
+	<ul class="posts">
+	  {% for post in site.tags.advertiser %}
+	    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
+	
+	<div id="topics">
+		<h2>Tópicos</h2>
+		<p>Você também pode encontrar instruções navegando pelos tópicos</p>
+		
+		<div class="topic">
+			<h3>Sites</h3>
+			<ul>
+				{% for page in site.categories.sites reversed %}
+			     <li>
+			       <a href="{{page.url}}">{{ page.title }}</a>
+			     </li>
+				{% endfor %}
+			</ul>
+		</div>
+		<div class="topic">
+			<h3>Anunciantes</h3>
+			<ul>
+				{% for page in site.categories.advertisers reversed %}
+			     <li>
+			       <a href="{{page.url}}">{{ page.title }}</a>
+			     </li>
+				{% endfor %}
+			</ul>
+		</div>
+		<div class="topic">
+			<h3>Campanhas</h3>
+			<ul>
+				{% for page in site.categories.campaigns reversed %}
+			     <li>
+			       <a href="{{page.url}}">{{ page.title }}</a>
+			     </li>
+				{% endfor %}
+			</ul>
+		</div>
+		<div class="topic">
+			<h3>Integração</h3>
+			<ul>
+				{% for page in site.categories.integration reversed %}
+			     <li>
+			       <a href="{{page.url}}">{{ page.title }}</a>
+			     </li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+
 </div>
