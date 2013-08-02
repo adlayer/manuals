@@ -39,7 +39,7 @@ title: Manual do usuário
 			<ul>
 				{% for page in site.categories.sites reversed %}
 			     <li>
-			       <a href="{{page.url}}">{{ page.title }}</a>
+			       <a href="{{ site.baseurl }}{{page.url}}">{{ page.title }}</a>
 			     </li>
 				{% endfor %}
 			</ul>
@@ -49,7 +49,7 @@ title: Manual do usuário
 			<ul>
 				{% for page in site.categories.advertisers reversed %}
 			     <li>
-			       <a href="{{page.url}}">{{ page.title }}</a>
+			       <a href="{{ site.baseurl }}{{page.url}}">{{ page.title }}</a>
 			     </li>
 				{% endfor %}
 			</ul>
@@ -59,7 +59,7 @@ title: Manual do usuário
 			<ul>
 				{% for page in site.categories.campaigns reversed %}
 			     <li>
-			       <a href="{{page.url}}">{{ page.title }}</a>
+			       <a href="{{ site.baseurl }}{{page.url}}">{{ page.title }}</a>
 			     </li>
 				{% endfor %}
 			</ul>
@@ -69,7 +69,7 @@ title: Manual do usuário
 			<ul>
 				{% for page in site.categories.integration reversed %}
 			     <li>
-			       <a href="{{page.url}}">{{ page.title }}</a>
+			       <a href="{{ site.baseurl }}{{page.url}}">{{ page.title }}</a>
 			     </li>
 				{% endfor %}
 			</ul>
