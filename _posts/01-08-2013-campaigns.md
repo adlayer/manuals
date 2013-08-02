@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Campanhas publicitárias"
-date:   2013-08-01 16:25:06
+date:   2013-08-01 05:00:00
 tags: publisher advertiser
 category: campaigns
 ---

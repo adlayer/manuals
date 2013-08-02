@@ -1,31 +1,41 @@
 ---
 layout: default
-title: Manuais de operações Adlayer
+title: Manual do usuário
 ---
 
 
-<div id="home">
-	<p>Os seguintes manuais estão separados por perfil, siga as instruções que melhor descrevem suas atividades (Publisher ou Anunciante).</p>
-	
-	<h2>Publishers</h2>
-	<ul class="posts">
-	  {% for post in site.tags.publisher %}
-	    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
-	<h2>Anunciantes</h2>
-	<ul class="posts">
-	  {% for post in site.tags.advertiser %}
-	    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
+<div id="main">
+	<div id="profiles">
+			<div class="profile">
+				<h2 class="extra-bold">Perfís</h2>
+				<p>
+				Os seguintes manuais estão separados por perfil, siga as instruções que melhor descrevem suas atividades (<strong>Publisher</strong> ou <strong>Anunciante</strong>).
+				</p>
+			</div>
+		<div class="profile">
+			<h2 class="extra-bold">Publishers</h2>
+			<ul class="posts">
+			  {% for post in site.tags.publisher reversed %}
+			    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+			  {% endfor %}
+			</ul>
+		</div>
+		<div class="profile">
+			<h2 class="extra-bold">Anunciantes</h2>
+			<ul class="posts">
+			  {% for post in site.tags.advertiser reversed %}
+			    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+			  {% endfor %}
+			</ul>
+		</div>
+	</div>
 	
 	<div id="topics">
-		<h2>Tópicos</h2>
+		<h2 class="extra-bold">Tópicos</h2>
 		<p>Você também pode encontrar instruções navegando pelos tópicos</p>
 		
 		<div class="topic">
-			<h3>Sites</h3>
+			<h3 class="light">Sites</h3>
 			<ul>
 				{% for page in site.categories.sites reversed %}
 			     <li>
@@ -35,7 +45,7 @@ title: Manuais de operações Adlayer
 			</ul>
 		</div>
 		<div class="topic">
-			<h3>Anunciantes</h3>
+			<h3 class="light">Anunciantes</h3>
 			<ul>
 				{% for page in site.categories.advertisers reversed %}
 			     <li>
@@ -45,7 +55,7 @@ title: Manuais de operações Adlayer
 			</ul>
 		</div>
 		<div class="topic">
-			<h3>Campanhas</h3>
+			<h3 class="light">Campanhas</h3>
 			<ul>
 				{% for page in site.categories.campaigns reversed %}
 			     <li>
@@ -55,7 +65,7 @@ title: Manuais de operações Adlayer
 			</ul>
 		</div>
 		<div class="topic">
-			<h3>Integração</h3>
+			<h3 class="light">Integração</h3>
 			<ul>
 				{% for page in site.categories.integration reversed %}
 			     <li>

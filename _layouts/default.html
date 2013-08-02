@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
+        <title>Adlayer Manual do usuário - {{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
 
         <!-- syntax highlighting CSS -->
@@ -12,33 +12,45 @@
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
 
+		<script type="text/javascript">
+		WebFontConfig = { fontdeck: { id: '23216' } };
+
+		(function() {
+		  var wf = document.createElement('script');
+		  wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+		  '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+		  wf.type = 'text/javascript';
+		  wf.async = 'true';
+		  var s = document.getElementsByTagName('script')[0];
+		  s.parentNode.insertBefore(wf, s);
+		})();
+		</script>
+		
     </head>
     <body>
 
         <div class="container">
           <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-              <a class="extra" href="/">home</a>
-            </div>
+            <header class="header">
+				<a href="/">
+					<img id="logo" src="/img/logo.png" alt="logotipo" title="Adlayer" />
+				</a>
+				<nav>
+					<a href="/" class="extra-bold dark-grey">
+						Ajuda
+					</a>
+					<a href="/" class="light dark-grey">
+						| {{ site.name }}
+					</a>
+					<a class="button cta small" href="http://adlayer.com.br">Site da Adlayer</a>
+				</nav>
+
+            </header>
      
                 {{ content }}
 
-            <div class="footer">
-              <div class="contact">
-                <p>
-                  Your Name<br />
-                  What You Are<br />
-                  your@email.com
-                </p>
-              </div>
-              <div class="contact">
-                <p>
-                  <a href="http://github.com/yourusername/">github.com/yourusername</a><br />
-                  <a href="http://twitter.com/yourusername/">twitter.com/yourusername</a><br />
-                </p>
-              </div>
-            </div>
+
+
           </div>
         </div> <!-- /container -->
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Integrando o Adlayer com seu sites"
-date:   2013-08-01 11:43:06
+date:   2013-08-01 01:00:00
 categories: integration
 ---
 
