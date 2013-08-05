@@ -1,4 +1,4 @@
 name: Manual do usuário
 pygments: true
 permalink: /:categories/:title
-baseurl: http://manuals.adlayerapp.com/manuals
+baseurl: http://manuals.adlayerapp.com/
