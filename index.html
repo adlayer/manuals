@@ -16,7 +16,7 @@ title: Manual do usuário
 			<h2 class="extra-bold">Publishers</h2>
 			<ul class="posts">
 			  {% for post in site.tags.publisher reversed %}
-			    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+			    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 			  {% endfor %}
 			</ul>
 		</div>
