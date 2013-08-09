@@ -50,7 +50,54 @@
                 {{ content }}
 
 
+			<footer>
+				<div id="topics">
+					<h2 class="extra-bold">Tópicos</h2>
+					<p>Você também pode encontrar instruções navegando pelos tópicos</p>
 
+					<div class="topic">
+						<h3 class="light">Sites</h3>
+						<ul>
+							{% for page in site.categories.sites reversed %}
+						     <li>
+						       <a href="{{ site.baseurl }}{{page.url}}">{{ page.title }}</a>
+						     </li>
+							{% endfor %}
+						</ul>
+					</div>
+					<div class="topic">
+						<h3 class="light">Anunciantes</h3>
+						<ul>
+							{% for page in site.categories.advertisers reversed %}
+						     <li>
+						       <a href="{{ site.baseurl }}{{page.url}}">{{ page.title }}</a>
+						     </li>
+							{% endfor %}
+						</ul>
+					</div>
+					<div class="topic">
+						<h3 class="light">Campanhas</h3>
+						<ul>
+							{% for page in site.categories.campaigns reversed %}
+						     <li>
+						       <a href="{{ site.baseurl }}{{page.url}}">{{ page.title }}</a>
+						     </li>
+							{% endfor %}
+						</ul>
+					</div>
+					<div class="topic">
+						<h3 class="light">Integração</h3>
+						<ul>
+							{% for page in site.categories.integration reversed %}
+						     <li>
+						       <a href="{{ site.baseurl }}{{page.url}}">{{ page.title }}</a>
+						     </li>
+							{% endfor %}
+						</ul>
+					</div>
+				</div>
+				
+			</footer>
           </div>
         </div> <!-- /container -->
 		<script>

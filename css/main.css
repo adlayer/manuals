@@ -1,4 +1,4 @@
-* {margin:0px;padding:0px;text-decoration:none;list-style:none;}
+* {margin:0px;padding:0px;text-decoration:none;}
 body {
 	color:#353d3c;
 	background: #c05b26;
@@ -95,22 +95,28 @@ header nav a {
 	margin-right:7px;
 }
 header nav .cta {float:right;}
-#main {
+#main, footer {
 	background:#fff;
 	clear:both;
 	display:block;
 	padding:28px;
 }
-footer {
+footer ul {list-style:none;margin:0px;}
+footer #topics {
+	padding-top:28px;
 	clear:both;
-	background:#fff;
+	display:table;
 }
+footer #topics .topic {
+	float:left;
+	margin-right:42px;
+}
+
 
 
 /**
 * Home
 */
-header 
 
 #profiles {
 	clear:both;
@@ -121,13 +127,4 @@ header
 	margin-right:42px;
 	width:250px;
 }
-
-#topics {
-	padding-top:28px;
-	clear:both;
-	display:table;
-}
-#topics .topic {
-	float:left;
-	margin-right:42px;
-}
+#profiles .profile ul {margin-left:14px;}
