@@ -7,7 +7,7 @@ categories: integration
 
 Atualmente o [Adlayer](http://adlayer.com.br) fornece múltiplas formas de integração, cada uma delas apresenta vantagens claras e adequadas para diferentes perfis. As formas de integração descritas neste documento requererem pouco conhecimento técnico.
 
-### [Espaço globais](/integration/spaces)
+### [Espaços globais](/integration/spaces)
 O Adlayer Spaces Widget é o metodo de integração mais indicado para o caso mais comum de gestão de espaços publicitários. Também conhecido como "espaços globais", os espaços publicitários integrados desta forma, normalmente estão presentes em todas as páginas do website. 
 
 Cada espaço no Adlayer pode receber um numero indeterminado de peças publicitárias e por padrão apenas uma peça publicitária é mostrada por vez (pageview).
@@ -15,14 +15,16 @@ Cada espaço no Adlayer pode receber um numero indeterminado de peças publicit�
 [Mais detalhes](/integration/spaces) [Vídeo de demonstração](http://www.youtube.com/watch?v=qiDub8TupVo) [documentação técnica](https://github.com/adlayer/javascript-api/blob/master/docs/widgets/spaces.md)
 
 ### [Páginas](/integration/pages)
-Este método é indicado para a integração de um ou mais espaços publicitários presentes apenas em uma página ou sessão específica do site. A "integração de página" possível através do [Adlayer Page Widget](https://github.com/adlayer/javascript-api/blob/master/docs/widgets/pages.md) permite maior segmentação das peças, uma gestão organizada do inventário e maior discriminação dos dados de relatório das campanhas. 
+Este método é indicado para a integração de um ou mais espaços publicitários, presentes em apenas uma página ou sessão específica do site. 
 
-Este método possui as mesmas características de uma integração de espaço global, com as vantagens de segmentação e organização de inventário.
+A "integração de página" é possível através do [Adlayer Page Widget](https://github.com/adlayer/javascript-api/blob/master/docs/widgets/pages.md), que permite maior segmentação das peças, uma gestão organizada do inventário e maior discriminação nos dados de relatório. 
 
-[Mais detalhes](/integration/pages) [Vídeo de demonstração](http://www.youtube.com/watch?v=bjNrS2nTzCg) [documentação técnica](https://github.com/adlayer/javascript-api/blob/master/docs/widgets/pages.md)
+Este método possui as mesmas características de uma [integração de espaço global](/integration/spaces), com as vantagens de segmentação e organização de inventário.
+
+[Veja um vídeo de demonstração](http://www.youtube.com/watch?v=bjNrS2nTzCg) ou a [documentação técnica](https://github.com/adlayer/javascript-api/blob/master/docs/widgets/pages.md)
 
 ### [Peças publicitárias](/integration/ads)
-Através do [Adlayer Ads Widget](https://github.com/adlayer/javascript-api/blob/master/docs/widgets/ads.md) é possível inserir uma peça publicitária em um website e obter relatórios dela em apenas 1 minuto. Alguns anunciante desejarão utilizar este método de integração para monitorar suas campanhas em sites de terceiros ([Thirdy-party adserving](http://www.youtube.com/watch?v=zm2NcO2HJpc)).
+Com [Adlayer Ads Widget](https://github.com/adlayer/javascript-api/blob/master/docs/widgets/ads.md) é possível inserir peças publicitária em websites e obter relatórios em apenas 1 minuto. Alguns anunciante desejarão utilizar este método de integração para monitorar suas campanhas em sites de terceiros ([Thirdy-party adserving](http://www.youtube.com/watch?v=zm2NcO2HJpc)).
 
 Caso o arquivo da peça gráfica ou link de destino seja alterado a peça embedada será atomaticamente atualizado, não necessitando uma re-integração da peça no veículo ou página vinculado.
 
