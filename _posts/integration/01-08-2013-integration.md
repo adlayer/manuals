@@ -24,7 +24,7 @@ Este método possui as mesmas características de uma [integração de espaço g
 [Veja um vídeo de demonstração](http://www.youtube.com/watch?v=bjNrS2nTzCg) ou a [documentação técnica](https://github.com/adlayer/javascript-api/blob/master/docs/widgets/pages.md)
 
 ### [Peças publicitárias](/integration/ads)
-Com [Adlayer Ads Widget](https://github.com/adlayer/javascript-api/blob/master/docs/widgets/ads.md) é possível inserir peças publicitária em websites e obter relatórios em apenas 1 minuto. Alguns anunciante desejarão utilizar este método de integração para monitorar suas campanhas em sites de terceiros ([Thirdy-party adserving](http://www.youtube.com/watch?v=zm2NcO2HJpc)).
+Com [Adlayer Ads Widget](https://github.com/adlayer/javascript-api/blob/master/docs/widgets/ads.md) é possível inserir peças publicitária em websites e obter relatórios em apenas 1 minuto. Alguns anunciante desejarão utilizar este método de integração para monitorar suas campanhas em sites de terceiros ([Third party adserving](http://www.youtube.com/watch?v=zm2NcO2HJpc)).
 
 Caso o arquivo da peça gráfica ou link de destino seja alterado a peça embedada será atomaticamente atualizado, não necessitando uma re-integração da peça no veículo ou página vinculado.
 
